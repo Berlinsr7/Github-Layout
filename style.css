@@ -1,38 +1,4 @@
-.header{
-    background-color: #383f47;
-    padding: 20px;
-}
-.heading{
-    display: flex;
-    justify-content: center;
-    color: white;
-}
-i{
-    float: left;
-}
-main{
-    background-color: grey;
-    height: 500px;
-    padding: 40px;
-}
-.box1{
-    background-color: rgb(29, 29, 29);
-    border-radius: 10px;
-}
-.box2{
-    background-color: rgb(29, 29, 29);
-    margin-bottom: 20px;
-    border-radius: 10px;
-}
-.box3{
-    background-color: rgb(29, 29, 29);
-    height: 150px;
-    border-radius: 10px;
-}
-.box4{
-    margin-left: 20px;
-    margin-top: 20px;
-    background-color: rgb(29, 29, 29);
-    height: 150px;
+.box{
+    background-color: rgb(50, 49, 49);
     border-radius: 10px;
 }
