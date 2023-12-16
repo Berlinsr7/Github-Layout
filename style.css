@@ -1,4 +1,37 @@
+.head{
+    background-color: rgb(55, 63, 72);
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+i{
+    float: left;
+    font-size: 30px;
+    margin-left: 10px;
+}
 .box{
-    background-color: rgb(50, 49, 49);
+    background-color: lightgrey;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}   
+.boxes{
+    background-color: rgb(41, 40, 40);
+    margin: 40px;
     border-radius: 10px;
+}
+.b1{
+    height: 550px;
+}
+.b2{
+    height: 30px;   
+    text-align:start;
+    padding-left: 10px;
+    padding-top: 2px;
+    color: white;
+}
+.b3{
+    height: 150px;
+}
+.b4{
+    height: 200px;
 }
